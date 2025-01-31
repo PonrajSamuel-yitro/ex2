@@ -8,7 +8,7 @@ Library    OperatingSystem
 Library    RPA.Excel.Files
  
 *** Variables ***
-${OUTPUT_DIR}    C:\\Users\\Ponraj\\OneDrive - Yitro Technology Solutions Pvt Ltd\\ex2
+${OUTPUT_DIR}    C:\\Users\\Ponraj\\OneDrive - Yitro Technology Solutions Pvt Ltd\\Demo
 ${FILE_NAME}        challenge.xlsx   
 *** Tasks ***
 Open the website and fill the form
